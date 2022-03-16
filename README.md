@@ -18,12 +18,20 @@ They have contracted a consulting company to understand the factors on which the
 ### Steps of Linear Regression Model used:
 
 
-1.Reading and Understanding Data\n
-2.Visualising the Data
-3.Data Preparation
-4.Splitting the Data into Training and Testing Sets
-5.Feature Scaling
-6.Building the Model
-7.Residual Analysis of the train data
-8.Making predictions using final model
-9.Model Evaluation
+1. Reading and Understanding Data
+
+2. Visualising the Data
+
+3. Data Preparation
+
+4. Splitting the Data into Training and Testing Sets
+
+5. Feature Scaling
+
+6. Building the Model
+
+7. Residual Analysis of the train data
+
+8. Making predictions using final model
+
+9. Model Evaluation
