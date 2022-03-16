@@ -18,7 +18,7 @@ They have contracted a consulting company to understand the factors on which the
 ### Steps of Linear Regression Model used:
 
 
-1.Reading and Understanding Data
+1.Reading and Understanding Data\n
 2.Visualising the Data
 3.Data Preparation
 4.Splitting the Data into Training and Testing Sets
